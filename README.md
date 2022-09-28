@@ -1,6 +1,6 @@
 # CO2-Emissions-Analysis
 
-***If you would just like to see the Q&As and the overall recommendations, it will be on the [Analysis Page]([another-page.md](https://github.com/darionruiz/CO2-Emissions-Analysis/blob/personal_projects/Analysis.md)).***
+***If you would just like to see the Q&As and the overall recommendations, it will be on the [Analysis Page]([another-page.md](https://github.com/darionruiz/CO2-Emissions-Analysis/blob/personal_projects/Analysis.md).***
 
 In this project, I go over 7 years worth of car and CO2 emissiond ata from the canada government website. The way it's outlined is I set the background, describe the data, then do my analysis followed by each question. At the end of the notebook, I have a review of the questions and recommendations the task of:
 
